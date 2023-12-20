@@ -101,3 +101,9 @@ https://pypi.org/search/?q=photo
 https://pypi.org/search/?q=colorization              
 
 https://pypi.org/search/?c=Topic+%3A%3A+Multimedia+%3A%3A+Graphics+%3A%3A+Graphics+Conversion              
+
+## 🏪 Sourceforge.net
+https://sourceforge.net/directory/image-processing/python/
+https://sourceforge.net/projects/smili-project - Scientific Visualisation Made Easy            
+https://sourceforge.net/projects/mia - medical image analysis        
+https://sourceforge.net/projects/pinkimage
