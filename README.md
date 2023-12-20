@@ -107,3 +107,12 @@ https://sourceforge.net/directory/image-processing/python
 https://sourceforge.net/projects/smili-project - Scientific Visualisation Made Easy                   
 https://sourceforge.net/projects/mia - medical image analysis        
 https://sourceforge.net/projects/pinkimage                   
+
+## 📄 Papers
+### Comparision (Neural Networks for Image Generation)
+15.03.2003 [5 бесплатных нейросетей для генерации изображений / 5 Free Neural Networks for Image Generation](https://dzen.ru/a/ZBDtTppY4RTRpkfa)
+
+
+## 🔥 Sites
+
+
