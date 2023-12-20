@@ -1,7 +1,7 @@
 # Image-and-photo-tools
 
-## Github
-### Image 
+## 🏢 Github
+### 🎨 Image 
 https://github.com/topics/image - 9,215 public repositories               
 
 https://github.com/topics/image?l=python - 1,675 public repositories      
@@ -69,7 +69,7 @@ https://github.com/topics/object-detection?l=jupyter+notebook-  74 public reposi
 https://github.com/topics/yolo -  1,918 public repositories  **YOLO - Algorithm for Object Detection**         
 https://github.com/topics/yolo?l=python -  968 public repositories     
 
-### Photo             
+### 📷 Photo             
 https://github.com/topics/photo - 943 public repositories                    
 https://github.com/topics/photo?l=python -  142 public repositories         
 https://github.com/sukebenet/dreamtime   https://github.com/sukebenet/dreampower                  
@@ -92,7 +92,7 @@ https://github.com/topics/colorization?l=jupyter+notebook - 1 public repository
 
 https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life - 14 k star    
 
-## PyPi           
+## 🏠 PyPi           
 https://pypi.org/search/?q=graphics             
 https://pypi.org/search/?q=graphics&o=&c=License+%3A%3A+OSI+Approved           
 
