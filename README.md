@@ -20,14 +20,29 @@ https://github.com/topics/opencv?l=jupyter+notebook - 109 public repositories
 
 https://github.com/topics/image-classification -  6,645 public repositories            
 https://github.com/topics/image-classification?l=python - 2,321 public repositories                       
+https://github.com/topics/image-classification?l=jupyter+notebook - 108 public repositories
 
 https://github.com/topics/image-recognition - 2,236 public repositories           
 https://github.com/topics/image-recognition?l=python - 874 public repositories                        
 https://github.com/topics/image-recognition?l=jupyter+notebook - 19 public repositories                    
 
+https://github.com/topics/image-segmentation - 1,904 public repositories              
+https://github.com/topics/image-segmentation?l=python - 825 public repositories       
+https://github.com/topics/image-segmentation?l=jupyter+notebook - 23 public repositories                
+
+- - -
+https://github.com/topics/object-detection -  7,997 public repositories        
+https://github.com/topics/object-detection?l=python - 4,135 public repositories                 
+https://github.com/topics/object-detection?l=jupyter+notebook-  74 public repositories
+
+
 ### Photo             
 https://github.com/topics/photo - 943 public repositories                    
 https://github.com/topics/photo?l=python -  142 public repositories                  
+
+https://github.com/topics/colorization - 325 public repositories           
+https://github.com/topics/colorization?l=python -  144 public repositories             
+https://github.com/topics/colorization?l=jupyter+notebook - 1 public repository           
 
 
 
