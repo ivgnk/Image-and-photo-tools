@@ -108,7 +108,7 @@ https://sourceforge.net/projects/smili-project - Scientific Visualisation Made E
 https://sourceforge.net/projects/mia - medical image analysis        
 https://sourceforge.net/projects/pinkimage                   
 
-## 📄 Papers
+## 📄 Popular papers
 ### Comparision Neural Networks for Image Generation     
 #### RUS               
 **https://ya.ru/search/?text=нейросети+для+генерации+изображений**                             
