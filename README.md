@@ -6,6 +6,8 @@
 **https://github.com/sindresorhus/awesome**                
 **https://github.com/jbhuang0604/awesome-computer-vision**                   
 **https://github.com/weiaicunzai/awesome-image-classification**                  
+**https://github.com/altryne/awesome-ai-art-image-synthesis**                  
+
 https://github.com/Siilwyn/awesome-pixel-art                 
 
 #### Topics
