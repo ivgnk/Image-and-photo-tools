@@ -3,6 +3,8 @@
 ## 🏢 Github
 ### 🎨 Image 
 #### Awesome 
+https://github.com/search?q=awesome+image&type=repositories&s=stars
+
 **https://github.com/sindresorhus/awesome**                
 **https://github.com/jbhuang0604/awesome-computer-vision**                   
 **https://github.com/weiaicunzai/awesome-image-classification**                  
@@ -11,9 +13,18 @@
 **https://github.com/altryne/awesome-ai-art-image-synthesis**              
 https://github.com/zengyh1900/Awesome-Image-Inpainting                
 **https://github.com/weihaox/awesome-image-translation** - image-to-image translation                   
-**https://github.com/dawnlh/awesome-low-light-image-enhancement**            
+**https://github.com/dawnlh/awesome-low-light-image-enhancement**      
+https://github.com/chaofengc/Awesome-Image-Quality-Assessment
+https://github.com/bcmi/Awesome-Image-Composition
+
+**https://github.com/MarkMoHR/Awesome-Image-Colorization**            
+**https://github.com/z-bingo/awesome-image-denoising-state-of-the-art**                        
+https://github.com/oneTaken/Awesome-Denoise             
+**https://github.com/vinthony/awesome-deep-hdr**                
+
 
 https://github.com/Siilwyn/awesome-pixel-art                 
+https://github.com/M-3LAB/awesome-industrial-anomaly-detection
 
 #### Topics
 https://github.com/topics/image - 9,215 public repositories               
