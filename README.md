@@ -3,10 +3,10 @@
 ## 🏢 Github
 ### 🎨 Image 
 #### Awesome 
-**https://github.com/sindresorhus/awesome**
-**https://github.com/jbhuang0604/awesome-computer-vision**
-**https://github.com/weiaicunzai/awesome-image-classification**
-https://github.com/Siilwyn/awesome-pixel-art
+**https://github.com/sindresorhus/awesome**                
+**https://github.com/jbhuang0604/awesome-computer-vision**                   
+**https://github.com/weiaicunzai/awesome-image-classification**                  
+https://github.com/Siilwyn/awesome-pixel-art                 
 
 #### Topics
 https://github.com/topics/image - 9,215 public repositories               
