@@ -42,7 +42,23 @@ https://github.com/XingangPan/DragGAN  - 34 k star
 https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix - 21.2 k star              
 https://github.com/alexjc/neural-doodle - 9.9 k star              
 
+**https://github.com/topics/image-generation -  1,097 public repositories**                  
 
+https://github.com/topics/image-generation?l=python -  522 public repositories
+https://github.com/AUTOMATIC1111/stable-diffusion-webui        
+https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix           
+https://github.com/huggingface/diffusers            
+https://github.com/alexjc/neural-doodle       
+
+https://github.com/topics/image-generation?l=jupyter+notebook -  19 public repositories
+
+https://github.com/topics/image2image - 35 public repositories         
+https://github.com/topics/image2image?l=python - 24 public repositories         
+
+https://github.com/topics/txt2img -  50 public repositories         
+https://github.com/topics/txt2img?l=python - 20 public repositories               
+
+- - -
 https://github.com/topics/image-processor - 17 public repositories      
 https://github.com/topics/image-processor?l=python - 4 public repositories 
 - - -
@@ -53,13 +69,22 @@ https://github.com/topics/object-detection?l=jupyter+notebook-  74 public reposi
 https://github.com/topics/yolo -  1,918 public repositories  **YOLO - Algorithm for Object Detection**         
 https://github.com/topics/yolo?l=python -  968 public repositories     
 
-
-
-
 ### Photo             
 https://github.com/topics/photo - 943 public repositories                    
 https://github.com/topics/photo?l=python -  142 public repositories         
 https://github.com/sukebenet/dreamtime   https://github.com/sukebenet/dreampower                  
+
+https://github.com/topics/photo-restoration - 5 public repositories          
+https://github.com/topics/old-photo-restoration -  4 public repositories       
+**https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life** - 14 k stars               
+
+**https://github.com/topics/image-restoration** - 316 public repositories          
+**https://github.com/topics/image-restoration?l=python** - 189 public repositories           
+
+**https://github.com/topics/generative-adversarial-network** - 2,775 public repositories        
+https://github.com/topics/generative-adversarial-network?l=python -  1,516 public repositories              
+**https://github.com/XingangPan/DragGAN** - 34 k stars                
+https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix - 21.2 k stars                
 
 https://github.com/topics/colorization - 325 public repositories           
 https://github.com/topics/colorization?l=python -  144 public repositories             
@@ -67,3 +92,12 @@ https://github.com/topics/colorization?l=jupyter+notebook - 1 public repository
 
 https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life - 14 k star    
 
+## PyPi           
+https://pypi.org/search/?q=graphics             
+https://pypi.org/search/?q=graphics&o=&c=License+%3A%3A+OSI+Approved           
+
+https://pypi.org/search/?q=photo            
+
+https://pypi.org/search/?q=colorization              
+
+https://pypi.org/search/?c=Topic+%3A%3A+Multimedia+%3A%3A+Graphics+%3A%3A+Graphics+Conversion              
