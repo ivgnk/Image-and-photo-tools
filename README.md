@@ -8,7 +8,10 @@
 **https://github.com/weiaicunzai/awesome-image-classification**                  
                    
 **https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image**                    
-**https://github.com/altryne/awesome-ai-art-image-synthesis**                  
+**https://github.com/altryne/awesome-ai-art-image-synthesis**              
+https://github.com/zengyh1900/Awesome-Image-Inpainting                
+**https://github.com/weihaox/awesome-image-translation** - image-to-image translation                   
+**https://github.com/dawnlh/awesome-low-light-image-enhancement**            
 
 https://github.com/Siilwyn/awesome-pixel-art                 
 
@@ -79,6 +82,9 @@ https://github.com/topics/object-detection?l=jupyter+notebook-  74 public reposi
 
 https://github.com/topics/yolo -  1,918 public repositories  **YOLO - Algorithm for Object Detection**         
 https://github.com/topics/yolo?l=python -  968 public repositories     
+
+https://github.com/topics/hdr -  199 public repositories            
+https://github.com/topics/hdr?l=python - 56 public repositories            
 
 ### 📷 Photo             
 https://github.com/topics/photo - 943 public repositories                    
