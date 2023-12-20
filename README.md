@@ -117,6 +117,8 @@ https://sourceforge.net/projects/pinkimage
 
 ### Articles
 #### RUS               
+[habr: Kandinsky](https://habr.com/ru/search/?q=%5Bkandinsky%202.1%5D&target_type=posts&order=date)                   
+[habr: генерация изображений / image generation](https://habr.com/ru/search/?q=%5Bгенерация%20изображений%5D&target_type=posts&order=date)     
 
 ## 🔥 Sites
 
