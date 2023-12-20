@@ -36,6 +36,13 @@ https://github.com/topics/image-segmentation - 1,904 public repositories
 https://github.com/topics/image-segmentation?l=python - 825 public repositories       
 https://github.com/topics/image-segmentation?l=jupyter+notebook - 23 public repositories                
 
+https://github.com/topics/image-manipulation - 1,387 public repositories          
+https://github.com/topics/image-manipulation?l=python - 425 public repositories          
+https://github.com/XingangPan/DragGAN  - 34 k star    
+https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix - 21.2 k star              
+https://github.com/alexjc/neural-doodle - 9.9 k star              
+
+
 https://github.com/topics/image-processor - 17 public repositories      
 https://github.com/topics/image-processor?l=python - 4 public repositories 
 - - -
@@ -52,12 +59,11 @@ https://github.com/topics/yolo?l=python -  968 public repositories
 ### Photo             
 https://github.com/topics/photo - 943 public repositories                    
 https://github.com/topics/photo?l=python -  142 public repositories         
-https://github.com/sukebenet/dreamtime            
-https://github.com/sukebenet/dreampower                  
+https://github.com/sukebenet/dreamtime   https://github.com/sukebenet/dreampower                  
 
 https://github.com/topics/colorization - 325 public repositories           
 https://github.com/topics/colorization?l=python -  144 public repositories             
 https://github.com/topics/colorization?l=jupyter+notebook - 1 public repository           
 
-
+https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life - 14 k star    
 
