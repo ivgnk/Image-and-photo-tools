@@ -109,9 +109,10 @@ https://sourceforge.net/projects/mia - medical image analysis
 https://sourceforge.net/projects/pinkimage                   
 
 ## 📄 Papers
-### Comparision (Neural Networks for Image Generation)
-15.03.2003 [5 бесплатных нейросетей для генерации изображений / 5 Free Neural Networks for Image Generation](https://dzen.ru/a/ZBDtTppY4RTRpkfa)
-
+### Comparision Neural Networks for Image Generation)     
+#### RUS               
+15.03.2003 [5 бесплатных нейросетей для генерации изображений / 5 Free Neural Networks for Image Generation](https://dzen.ru/a/ZBDtTppY4RTRpkfa)              
+14.08.2023 [10 самых популярных нейросетей для создания картинок / 10 most popular neural networks for creating images](https://netology.ru/blog/08-2023-ai-pictures)   
 
 ## 🔥 Sites
 
