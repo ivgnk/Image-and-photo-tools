@@ -111,6 +111,7 @@ https://sourceforge.net/projects/pinkimage
 ## 📄 Papers
 ### Comparision Neural Networks for Image Generation     
 #### RUS               
+https://ya.ru/search/?text=нейросети+для+генерации+изображений
 15.03.2023 [dzen: 5 бесплатных нейросетей для генерации изображений / 5 Free Neural Networks for Image Generation](https://dzen.ru/a/ZBDtTppY4RTRpkfa)              
 24.04.2023 [habr: Тестируем нейросети для генерации изображений / Testing neural networks for image generation](https://habr.com/ru/companies/rshb/articles/731234/)                 
 04.07.2023 [ 8 нейросетей для генерации картинок / 8 neural networks for generating images](https://www.unisender.com/ru/blog/sovety/nejrosetej-dlya-generacii-kartinok/)                    
