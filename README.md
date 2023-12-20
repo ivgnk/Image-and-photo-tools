@@ -12,15 +12,25 @@ https://github.com/search?q=awesome+image&type=repositories&s=stars
 **https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image**                    
 **https://github.com/altryne/awesome-ai-art-image-synthesis**              
 https://github.com/zengyh1900/Awesome-Image-Inpainting                
-**https://github.com/weihaox/awesome-image-translation** - image-to-image translation                   
-**https://github.com/dawnlh/awesome-low-light-image-enhancement**      
-https://github.com/chaofengc/Awesome-Image-Quality-Assessment
-https://github.com/bcmi/Awesome-Image-Composition
+**https://github.com/weihaox/awesome-image-translation** - image-to-image translation                              
+https://github.com/bcmi/Awesome-Few-Shot-Image-Generation                
+https://github.com/lixinustc/Awesome-diffusion-model-for-image-processing
+https://github.com/alxndrkalinin/awesome-deepneuroimage                       
+
+**https://github.com/dawnlh/awesome-low-light-image-enhancement**                  
+https://github.com/chaofengc/Awesome-Image-Quality-Assessment                       
+https://github.com/bcmi/Awesome-Image-Composition                       
 
 **https://github.com/MarkMoHR/Awesome-Image-Colorization**            
 **https://github.com/z-bingo/awesome-image-denoising-state-of-the-art**                        
+
 https://github.com/oneTaken/Awesome-Denoise             
+https://github.com/subeeshvasu/Awesome-Image-Distortion-Correction
+https://github.com/wchstrife/Awesome-Image-Matting
+https://github.com/michaelowenliu/awesome-image-matting
+
 **https://github.com/vinthony/awesome-deep-hdr**                
+**https://github.com/bcmi/Awesome-Image-Harmonization**                   
 
 
 https://github.com/Siilwyn/awesome-pixel-art                 
